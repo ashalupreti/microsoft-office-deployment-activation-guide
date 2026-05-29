@@ -1,6 +1,7 @@
 # Microsoft Office 2021 / 2019 / LTSC 2024 Deployment & Activation Guide
 
-Complete step-by-step guide for deploying, installing, configuring, and activating Microsoft Office using the Office Deployment Tool (ODT)
+Complete step-by-step guide for deploying, installing, configuring, and activating Microsoft Office using the Office Deployment Tool (ODT).
+
 Supports:
 
 - Microsoft Office 2016
@@ -19,8 +20,8 @@ Supports:
   <img src="https://img.shields.io/badge/Office-LTSC%202024-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Windows-Compatible-success?style=for-the-badge&logo=windows">
   <img src="https://img.shields.io/badge/License-Educational-orange?style=for-the-badge">
-  ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=for-the-badge&logo=windows)
 </p>
+![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=for-the-badge&logo=windows)
 
 ## Official Microsoft Resources
 
