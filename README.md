@@ -1,4 +1,4 @@
-# Microsoft Office 2021 / 2019 / LTSC 2024 Deployment & Activation Guide
+# Microsoft Office 2016 / 2019 / 2021 / LTSC 2024 Deployment & Activation Guide
 
 Complete step-by-step guide for deploying, installing, configuring, and activating Microsoft Office using the Office Deployment Tool (ODT).
 
