@@ -21,6 +21,7 @@ Supports:
   <img src="https://img.shields.io/badge/Windows-Compatible-success?style=for-the-badge&logo=windows">
   <img src="https://img.shields.io/badge/License-Educational-orange?style=for-the-badge">
 </p>
+
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=for-the-badge&logo=windows)
 
 ## Official Microsoft Resources
