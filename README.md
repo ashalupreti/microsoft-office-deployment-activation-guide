@@ -182,16 +182,19 @@ cscript ospp.vbs /act
 # Useful Office Commands
 
 ## Activate Microsoft Office
-
-cscript ospp.vbs /act 
+```
+cscript ospp.vbs /act
+``` 
 
 ## Remove Existing Product Key
-
-cscript ospp.vbs /unpkey:BTDRB 
+```
+cscript ospp.vbs /unpkey:BTDRB
+``` 
 
 ## Check Office Activation Status
-
-cscript ospp.vbs /dstatus 
+```
+cscript ospp.vbs /dstatus
+``` 
 
 ---
 
